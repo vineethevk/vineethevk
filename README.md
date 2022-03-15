@@ -7,9 +7,12 @@
 
 - 🔭 I’m currently working on **[Firtscry Clone](https://github.com/)**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React,Mongodb & Nodejs**
+
 
 - <p style="display:flex; align-items: center;"> <img src="https://img.icons8.com/color/18/000000/teamwork--v2.png" style="margin-right: 10px"/> I’m looking to collaborate on OpenSource Projects </p> 
+
+- ⚡ love: **🏍️ Travelling**
 
 - 📫 How to reach me **vineeth.evk@gmail.com**
 
@@ -17,24 +20,19 @@
 
 <!--Languages and Tools:-->
 
-## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/source-code.png"/> Languages and Tools:</p> 
+## <p style="display:flex; align-items: center;"> <img src="https://img.icons8.com/color/48/000000/source-code.png"/> Languages and Tools:</p> 
 
 <p align="left"> 
-  <a href="https://www.cplusplus.com" target="_blank"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> </a>
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> </a> 
-    <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/> </a>  
     <a href="https://nodejs.org" target="_blank"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> </a> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> </a>
     <a href="https://redux.js.org/" target="_blank"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> </a> 
     <a href="https://expressjs.com" target="_blank"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express" /> </a>
-    <a href="https://nextjs.com" target="_blank"> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs"/> </a>
-    <a href="https://socket.io/" target="_blank"> <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" alt="socket.io"/> </a>
-    <a href="https://www.adobe.com/in/products/xd.html" target="_blank"> <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="adobe xd"/> </a>
+<!--     <a href="https://nextjs.com" target="_blank"> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs"/> </a> -->
 </p>
 
 <br/>
