@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vineeth Kumar</h1>
-<h3 align="center">I'm a passionate Full Stack Developer and Competitive Programmer from India.</h3>
+<h3 align="center">I'm a passionate Full Stack Developer and Competitive Programmer.</h3>
 
 ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
 
