@@ -1,4 +1,5 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vineeth Kumar</h1>
+<img width="100%" src="https://img.wattpad.com/6a241bd5e9834b57b3055f47b500b71bc9e07052/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f6c495f5f7379746f2d53686355413d3d2d3934383835313239392e313633323130313932626662616634613539343836393238373533322e676966?s=fit&w=1024&h=720"></img>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Vineeth Kumar</h1>
 <h3 align="center">I'm a passionate Full Stack Developer and Competitive Programmer.</h3>
 
 ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
