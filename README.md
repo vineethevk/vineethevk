@@ -47,7 +47,7 @@
     <a href="https://github.com/vineethevk/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vineeth Kumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vineethevk&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-    <a href="https://github.com/vineethevk/github-readme-stats"><img alt="Vineeth Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vineethevk&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+   <!-- <a href="https://github.com/vineethevk/github-readme-stats"><img alt="Vineeth Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vineethevk&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
     
     
 <!--   <a href="https://github.com/vineethevk/github-readme-stats"><img alt="Vineeth Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineethevk&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -58,7 +58,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/vineethevk/github-readme-activity-graph"><img alt="Vineeth Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vineethevk&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!--<a href="https://github.com/vineethevk/github-readme-activity-graph"><img alt="Vineeth Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vineethevk&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>-->
 
 <br/>
 <br/>
